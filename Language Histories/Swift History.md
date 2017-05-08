@@ -11,6 +11,16 @@ if windows.contains("Main") {
 }
 ~~~~
 
-The language also uses syntactic surgar in the form of var/let variable declarations to encourage the use of 'final' variables.
+In swift a similar structure would look like
+
+~~~~
+guard let leaseStart = aBuilding.TenantList[5]?.leaseDetails?.startDate else {
+        //handle the error case where anything in the chain is nil
+        //else scope must exit the current method or loop
+    }
+    //continue, knowing that leaseStart is not nil
+~~~~
+
+The language also uses syntactic surgar in the form of var/let variable declarations to encourage the use of 'final' variables and side effect free functions.
     
 
