@@ -12,3 +12,6 @@ This avoids the Java problem of needing to create a class and the "Public static
 In a similar way, swift's var/let dichotomy both encourages the use of final variables and alllows as much functional syntax as a programmer is willing to write.
 
 **C#** has similar problems to java, but the allowance of first class functions slightly negates the problem, and allows for a semblance of procedural programming without simply writing the entire program in main. Functional programming is more difficult.  There are some C# coders who simulate it with [static methods](http://mikehadlow.blogspot.com/2015/08/c-program-entirely-with-static-methods.html), but overall the languages support for such features is low.
+
+
+[Back to home](README.md)

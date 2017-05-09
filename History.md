@@ -26,3 +26,5 @@ guard let leaseStart = aBuilding.TenantList[5]?.leaseDetails?.startDate else {
 ~~~~
 
 The language also uses syntactic surgar in the form of var/let variable declarations to encourage the use of 'final' variables and side effect free functions.
+
+[Back to home](README.md)

@@ -15,3 +15,6 @@ Swift does away with protected as an access level and allows different levels of
 Swift also places rettrictions on access levels and types in relation to functions.  A public function can't return a File private type, because the recieving class may not have the same definition of that data type, or that data type at all.  Similarly a public function can't take as a parameter a File private type.
 
 **C#** follows fairly standard Java style permission levels, with the caveat that Java's "default" is renamed to "Internal" and that internal can be stacked with some other permission levels.
+
+
+[Back to home](README.md)

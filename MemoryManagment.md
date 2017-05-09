@@ -26,5 +26,6 @@ References:
 [https://www.raywenderlich.com/134411/arc-memory-management-swift](https://www.raywenderlich.com/134411/arc-memory-management-swift)
 
 
+[Back to home](README.md)
 
 

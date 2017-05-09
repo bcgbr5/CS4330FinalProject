@@ -39,3 +39,6 @@ someFunctionThatTakesAClosure() {
 }
 ~~~~
 These allow code to be written similar to a lamba have certain advantages, the largest being that they can be passed as a function parameter to another function, which is often used for sort purposes in swift.
+
+
+[Back to home](README.md)
