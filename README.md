@@ -4,7 +4,7 @@ Brandon Greer
 
 Comparison of the C# and Swift languages from an object oriented perspective
 [Language History Overview](History.md)</br>
-[Namespaces Overview](Namspaces.md)</br>
+[Namespaces Overview](Namespaces.md)</br>
 [Extending Existing Classes](ExtensionMethods.md)</br>
 [Access Levels](AccessLevels.md)</br>
 [Reference types, value types, and comparison](Referenceandvaluetypecomparisons.md)</br>
