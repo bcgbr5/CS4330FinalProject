@@ -12,7 +12,9 @@ Swift does away with protected as an access level and allows different levels of
 * Classes with any access level other than **Open** can only be overridden by subclasses from within their module.
 * **Open** classes can be overridden and overrridded by subclasses from thier own module or any module that imports them.
 
-Swift also places rettrictions on access levels and types in relation to functions.  A public function can't return a File private type, because the recieving class may not have the same definition of that data type, or that data type at all.  Similarly a public function can't take as a parameter a File private type.
+Swift also places restrictions on access levels and types in relation to functions.  A public function can't return a File private type, because the recieving class may not have the same definition of that data type, or that data type at all.  Similarly a public function can't take as a parameter a File private type.
+
+Apple comments that "[In addition to offering various levels of access control, Swift reduces the need to specify explicit access control levels by providing default access levels for typical scenarios. Indeed, if you are writing a single-target app, you may not need to specify explicit access control levels at all.](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/AccessControl.html)
 
 **C#** follows fairly standard Java style permission levels, with the caveat that Java's "default" is renamed to "Internal" and that internal can be stacked with some other permission levels.
 
