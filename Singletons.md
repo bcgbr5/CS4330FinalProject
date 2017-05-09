@@ -1,4 +1,4 @@
-##Singletons
+## Singletons
 
 In **C#** singletons are of the form 
 
@@ -40,4 +40,4 @@ class TheOneAndOnlyKraken {
 
 To borrow a phrase form the above source, this is "thread-safety by "virtue of let"" and really shows the power of let as a concept.
 
-Note that the default init must be made private to prevent objects from creating thier own empty versions of the class.  This is the one disadvantage of default inits
+Note that the default init must be made private to prevent objects from creating thier own empty versions of the class.  This is the one disadvantage of default inits 

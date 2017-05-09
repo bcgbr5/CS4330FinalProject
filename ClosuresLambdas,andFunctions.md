@@ -1,4 +1,4 @@
-##Closures, Lambdas and Functions, Oh My
+## Closures, Lambdas and Functions, Oh My
 (I'm so sorry). 
 
 **C#** supports first class functions in the form of 

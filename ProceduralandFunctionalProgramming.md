@@ -1,4 +1,4 @@
-##Procedural and Functional Programming
+## Procedural and Functional Programming
 
 Apple refers to **Swift** as "[Protocol Oriented]()".  This seems to have more to do with the way they encourage extension by protocol, over extension by inheretance.  However, by it's nature swift is fairly well suited to procedural programming.  It's default it top down execution and it has support for nested functions and classes which allow code to be executed in a fairly simple top down fashion.  It's "Hello world" program demonstrates this, by being as simple as C or Python's.  
 

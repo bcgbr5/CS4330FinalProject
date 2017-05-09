@@ -1,4 +1,4 @@
-##Memory Managment
+## Memory Managment
 **Swift**'s memory managment works by reference counting.  Essentially when the last refernce to an object is lost, what would in C be considered a memory leak, the object is deallocated.  This works well in most circumstances because it means an object is only held onto until it is no longer needed and it means that memory managment is a consitent overhead, rather than occuring at random.  It does have one pitfall however. 
 
 If the normal cycle of life and death for an object looks like

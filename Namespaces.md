@@ -1,4 +1,4 @@
-##Namespaces
+## Namespaces
 
 In C# namespaces are explicitly declared, i.e.
 `namespace SampleNamespace`

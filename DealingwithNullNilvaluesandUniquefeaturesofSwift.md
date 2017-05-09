@@ -1,4 +1,4 @@
-##Dealing with Null/Nil values and Unique features of Swift
+## Dealing with Null/Nil values and Unique features of Swift
 **C#** has only basic allowance for dealing with Null values.  Essentially, one must either run if/else block to ensure the value is non null, or use try/catch blocks.
 
 **Swift** on the other hand is essentially built to handle nil(the same as null) values.  It provides the concept of optionals, if let s and guard statments to make dealing with null values very simple, in addition to try/catch.

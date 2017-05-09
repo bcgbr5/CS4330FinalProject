@@ -1,4 +1,4 @@
-##Extending existing classes
+## Extending existing classes
 Both swift and C# support simple inheretance in essentially the same fashion as all other OO languages.  They also both have "Interfaces", although swift calls them protocols.  Swift also allows protocols to be declared as extensions, which resemble C#'s partial classes(see further down), but don't require the source.  They look like this
 
 ~~~~

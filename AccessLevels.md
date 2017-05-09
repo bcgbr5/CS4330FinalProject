@@ -1,4 +1,4 @@
-##Access Levels
+## Access Levels
 **Swift** allows access restriction in a similar style to the C# or Java, public, default, protected, private, scheme, but has a few modification from the default.
 
 * **Open or Public Access**: are essentially the same as C#'s public access, that is to say any code from anywhere can access it.
